@@ -1,8 +1,8 @@
-### Hi there 👋 I'm -
+### Hi there 👋 Welcome to my page!
 
-- 🤗 a data scientist in e-commerce fraud detection and an enthusiast in Graph ML. 
-- 💬 writing a [**Substack Newsletter**](https://sisilio.substack.com/) for ML practitioners who're interested in fraud detection. 
-- 📕 researching [**data-centric**](https://github.com/HazyResearch/data-centric-ai) open-source AI projects and topics in MLOps.
+- 🤗 I'm a data scientist in Ecommerce fraud detection and an enthusiast in Graph ML. 
+- 💬 I'm writing a [**Substack Newsletter**](https://sisilio.substack.com/) for ML practitioners who're interested in graph and its applications. 
+- 📕 I love researching [**data-centric**](https://github.com/HazyResearch/data-centric-ai) open-source AI projects and topics in MLOps.
 
 <!--
 **zixi-liu/zixi-liu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
