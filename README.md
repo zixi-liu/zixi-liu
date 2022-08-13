@@ -1,4 +1,4 @@
-### Hi there 👋 I'm --
+### Hi there 👋 I'm -
 
 - 🤗 a data scientist in e-commerce fraud detection and an enthusiast in Graph ML. 
 - 💬 writing a [**Substack Newsletter**](https://sisilio.substack.com/) for ML practitioners who're interested in fraud detection. 
