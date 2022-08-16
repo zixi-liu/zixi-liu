@@ -1,6 +1,6 @@
 ### Hi there 👋 Welcome to my page!
 
-- 🤗 I'm a data scientist in Ecommerce fraud detection and an enthusiast in Graph ML. 
+- 🤗 I'm a data scientist in Ecommerce fraud detection and an enthusiast in Graph Machine Learning. 
 - 💬 I'm writing a [**Substack Newsletter**](https://sisilio.substack.com/) for ML practitioners who're interested in graph and its applications. 
 - 📕 I love researching [**data-centric**](https://github.com/HazyResearch/data-centric-ai) open-source AI projects and topics in MLOps.
 
