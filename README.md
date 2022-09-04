@@ -1,6 +1,6 @@
 ### Hi there 👋 Welcome to my page! I'm -
 
-- 🤗 a data scientist in fraud & risk and an enthusiast in Graph Machine Learning. 
+- 🤗 a data scientist in eCommerce fraud and an enthusiast in Graph Machine Learning. 
 - 💬 writing a [**Substack Newsletter**](https://sisilio.substack.com/) about payments fraud and graph machine learning. 
 
 
