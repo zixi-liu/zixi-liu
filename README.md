@@ -1,7 +1,8 @@
 ### Hey there 👋 Welcome! Who Am I?
 
--  a data scientist in eCommerce fraud and an enthusiast in Graph Machine Learning. 
-- writing a [**Substack Newsletter**](https://sisilio.substack.com/) about payments, blockchain and AI. 
+-  Data scientist in eCommerce fraud 
+-  Enthusiast in Graph Machine Learning
+-  Writer @ [**Substack**](https://sisilio.substack.com/) about Payments, Blockchain and AI. 
 
 
 <!--
