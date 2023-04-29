@@ -2,7 +2,8 @@
 
 -  Data scientist in eCommerce fraud 
 -  Enthusiast in Graph Machine Learning
--  Writer @ [**Substack**](https://sisilio.substack.com/) about Payments, Blockchain and AI. 
+-  Writer @ [**Substack**](https://sisilio.substack.com/) about Payments, Blockchain and AI
+-  Book a [**coffee chat**](https://calendly.com/zixi-liu/coffee-chat-w-zixi) with me
 
 
 <!--
