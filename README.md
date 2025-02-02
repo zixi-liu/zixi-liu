@@ -1,6 +1,6 @@
 ### Hey there 👋 Welcome! Who Am I?
 
--  Data scientist in eCommerce fraud 
+-  Data scientist in trust & fraud detection
 -  Enthusiast in Graph Machine Learning
 -  Writer @ [**substack**](https://sisilio.substack.com/) about Payments, Blockchain and AI
 -  Book a [**coffee chat**](https://calendly.com/zixi-liu/coffee-chat-w-zixi) with me
